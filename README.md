@@ -1,2 +1,4 @@
 # windows-gesture-control
-control windows media control through finger gestures
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Dependencies&animation=fadeIn&type=Capsule&color=gradient&height=100"/>
+</p>
